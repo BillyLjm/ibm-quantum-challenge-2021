@@ -1,25 +1,27 @@
-# IBM Quantum Challenge 2021
-
-**The challenge is now LIVE!**
-
-**You can [join the challenge](https://ibm.co/iqc2021) any time before 9pm EDT, May 26, 2021.**
-
-## Introduction
-
-Commemorating the 40-year anniversary of the Physics of Computation conference, and 5-year anniversary of IBM putting the first quantum computer on the cloud, we're excited to present the IBM Quantum Challenge 2021.
-
-Read more about the challenge in the [announcement blog](https://research.ibm.com/blog/quantum-challenge-2021) and find the [learning resources](https://medium.com/qiskit/ibm-quantum-challenge-2021-heres-what-to-expect-65a303753ffb) to prepare for the challenge.
-
-## Challenge content
-
-| Exercises                                   | English                                                                                     | 日本語                                                                                            |
-|---------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Ex1: Toffoli gate (1980)                    | [ex1](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1.ipynb) | [ex1-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex1/ex1-ja.ipynb) |
-| Ex2: Shor's algorithm (1994)                | [ex2](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex2/ex2.ipynb) | [ex2-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex2/ex2-ja.ipynb) |
-| Ex3: Quantum error correction (1995)        | [ex3](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3.ipynb) | [ex3-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex3/ex3-ja.ipynb) |
-| Ex4: Transmon qubits (2007)                 | [ex4](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4.ipynb) | [ex4-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex4/ex4-ja.ipynb) |
-| Ex5: Variational quantum eignesolver (2014) | [ex5](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5.ipynb) | [ex5-ja](https://quantum-computing.ibm.com/lab/files/quantum-challenge/2021-iqc/ex5/ex5-ja.ipynb) |
-
-## [Guidelines for participation](guidelines-for-participation.md)
-
-## [FAQ](faq.md)
+# IBM Quantum Challenge 2021  
+  
+These are the solutions I submitted for the [IBM Quantum Challenge 2021](http://ibm.co/iqc2021)  
+The original challenge repository is at [/qiskit-community/ibm-quantum-challenge-2021](https://github.com/qiskit-community/ibm-quantum-challenge-2021)  
+  
+## Challenge Details  
+__Site:__ [ibm.co/iqc2021](http://ibm.co/iqc2021)  
+__Date:__ May 2021  
+  
+## Certificate  
+Here's a screenshot of my challenge portal dashboard.  
+[![IQC2021 Challenge Portal Screenshot](challenge_portal.png)](http://ibm.co/iqc2021)  
+  
+<!--And here's my advanced badge, for completing all the exercises.  
+[<img src="./iqc2021-advanced.png" alt="IBM Quantum Challenge  Advanced Badge" height="150px">]()  -->
+  
+## Description  
+The challenge consisted of 5 exercises, in each `ex*` folder.  
+Each folder has the main `.ipynb` workbook, and a `.html` copy if you prefer.  
+`ex5` also has a `.png` plots of the VQE convergence, and `.csv` data of comparing the different VQE parameters.  
+  
+## Topics  
+[`ex1`](ex1/ex1.ipynb) - Gate Decomposition (CCNOT gate)  
+[`ex2`](ex2/ex2.ipynb) - Algorithms (Shor's Factorisation)  
+[`ex3`](ex3/ex3.ipynb) - Quantum Error Detection (Surface Code)  
+[`ex4`](ex4/ex4.ipynb) - Qiskit Pulse (Qubit Spectroscopy)  
+[`ex5`](ex5/ex5.ipynb) - Variational Quantum Eigensolver  

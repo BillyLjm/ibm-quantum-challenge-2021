@@ -1,0 +1,4 @@
+,optimizer,mapping,ansatz,rotation blocks,entanglement_blocks,entanglement,repetitions,skip_final_rotation_layer,energy (Ha),error (mHa),pass,# of parameters,final parameters,# of evaluations,optimizer time,# of qubits,# of CNOTs,score
+0,SLSQP,ParityMapper,TwoLocal,"['ry', 'rz']",cx,full,3,True,-1.0863472027043741,2.3588130303648924,True,16,"[ 0.25215469  3.18867355  0.44245953 -0.04588089 -0.04486507 -0.05014781
+ -0.09608639 -0.00542536 -3.14151471 -2.69830956 -0.04518511  0.02861491
+ -0.07021397  0.0040986   0.05228086  3.13188685]",786,6.069052457809448,4,3,3
