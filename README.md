@@ -9,10 +9,10 @@ __Date:__ May 2021
   
 ## Certificate  
 Here's a screenshot of my challenge portal dashboard.  
-[![IQC2021 Challenge Portal Screenshot](challenge_portal.png)](http://ibm.co/iqc2021)  
+[![IQC2021 Challenge Portal Screenshot](iqc2021_challenge_portal.png)](http://ibm.co/iqc2021)  
   
-<!--And here's my advanced badge, for completing all the exercises.  
-[<img src="./iqc2021-advanced.png" alt="IBM Quantum Challenge  Advanced Badge" height="150px">]()  -->
+And here's my advanced badge, for completing all the exercises.  
+[<img src="./iqc2021_advanced_badge.png" alt="IBM Quantum Challenge Advanced Badge" height="150px">](https://www.credly.com/badges/b5ee983f-8289-418c-b38e-590d84c0ba0a/public_url)
   
 ## Description  
 The challenge consisted of 5 exercises, in each `ex*` folder.  
